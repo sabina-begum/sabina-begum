@@ -60,7 +60,7 @@ I build full-stack JavaScript applications focused on knowledge systems, ethical
 
 ## 🧩 Featured Projects
 
-### 📖 Islamic Dataset Explorer
+### 📖 Islamic Knowledge Explorer
 
 Cross-reference search across Quran verses, Hadith collections, and Islamic knowledge datasets.
 
@@ -74,7 +74,7 @@ Cross-reference search across Quran verses, Hadith collections, and Islamic know
 Tech: React, TypeScript, Firebase, Zustand, D3
 
 🔗 Live Demo: https://reflect-and-implement.netlify.app
-💻 Repo: https://github.com/sabina-begum/Islamic-Dataset-App
+💻 Repo: https://github.com/sabina-begum/islamic-knowledge-explorer
 
 ---
 
@@ -92,7 +92,7 @@ Recipe discovery platform that filters out haram ingredients and supports meal p
 Tech: React, Firebase, Tailwind, REST APIs
 
 🔗 Live Demo: https://halalrecipefilter.netlify.app
-💻 Repo: https://github.com/sabina-begum/Recipe-App
+💻 Repo: https://github.com/sabina-begum/halal-recipe-platform
 
 ---
 

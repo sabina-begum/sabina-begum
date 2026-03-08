@@ -148,8 +148,6 @@ Interested in contributing to:
 
 🌐 LinkedIn: https://linkedin.com/in/sabina-b-75306b221
 
-📧 Portfolio: https://portfolio-rho-ten-53.vercel.app
-
 ---
 
 ⭐ *“I aim to build technology that provides meaningful, lasting benefit.”*

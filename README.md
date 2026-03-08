@@ -36,7 +36,6 @@ I build full-stack JavaScript applications focused on knowledge systems, ethical
 ### Frontend & Mobile
 
 ![React](https://skillicons.dev/icons?i=react)
-![React Native](https://skillicons.dev/icons?i=react)
 ![Expo](https://skillicons.dev/icons?i=expo)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Vite](https://skillicons.dev/icons?i=vite)

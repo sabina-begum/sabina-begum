@@ -1,67 +1,44 @@
 # About me
 
-## Assalamu Alaikum, I'm Sabina Begum 👋
+## Sabina Begum
 
-*Bootcamp + Internship Graduate • Contributor to production codebases through reviewed pull requests*
+*Production code contributor • Collaborative engineering workflows*
 
-Software Engineer | React & React Native | Building ethical, user-focused technology
+Software Engineer | React & React Native
 
-Based in London
+London, United Kingdom
 
----
-
-I build full-stack JavaScript applications focused on knowledge systems, ethical products, and interactive learning tools.
+Full-stack JavaScript engineer building ethical, user-focused applications for knowledge systems and interactive learning tools.
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabina-begum&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabina-begum&theme=tokyo-night"/>
-</p>
-
----
-
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Languages
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+JavaScript, TypeScript
 
 ### Frontend & Mobile
 
-![React](https://skillicons.dev/icons?i=react)
-![Expo](https://skillicons.dev/icons?i=expo)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
+React, React Native, Expo, Tailwind CSS, Vite
 
 ### Backend & Data
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+Node.js, Express, Firebase, REST APIs
 
 ### State & Tools
 
-![Zustand](https://img.shields.io/badge/Zustand-State%20Management-purple)
-![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
+Zustand, Git, Postman
 
 ### Data Visualisation
 
-![D3.js](https://skillicons.dev/icons?i=d3)
+D3.js
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-### 📖 Islamic Knowledge Explorer
-
+### Islamic Knowledge Explorer
 Cross-reference search across Quran verses, Hadith collections, and Islamic knowledge datasets.
 
 **Highlights**
@@ -73,14 +50,13 @@ Cross-reference search across Quran verses, Hadith collections, and Islamic know
 
 Tech: React, TypeScript, Firebase, Zustand, D3
 
-🔗 Live Demo: https://reflect-and-implement.netlify.app
-💻 Repo: https://github.com/sabina-begum/islamic-knowledge-explorer
+Live Demo: https://reflect-and-implement.netlify.app
+Repo: https://github.com/sabina-begum/islamic-knowledge-explorer
 
 ---
 
-### 🍽️ Halal Recipe Filter & Meal Planner
-
-Recipe discovery platform that filters out haram ingredients and supports meal planning.
+### Halal Recipe Filter & Meal Planner
+Recipe discovery platform that filters out haram ingredients and supports structured meal planning.
 
 **Highlights**
 
@@ -89,29 +65,29 @@ Recipe discovery platform that filters out haram ingredients and supports meal p
 * Meal planning calendar & shopping lists
 * Responsive modern UI
 
-Tech: React, Firebase, Tailwind, REST APIs
+Tech: React, Firebase, Tailwind CSS, REST APIs
 
-🔗 Live Demo: https://halalrecipefilter.netlify.app
-💻 Repo: https://github.com/sabina-begum/halal-recipe-platform
+Live Demo: https://halalrecipefilter.netlify.app
+Repo: https://github.com/sabina-begum/halal-recipe-platform
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **Software Engineering Intern — Pivot2Tech**
 
 Contributed to a production gamified AI learning platform built with React Native & TypeScript.
 
-* Contributed production-ready features merged by maintainers
-* Collaborated with maintainers through PR reviews and feature planning discussions
+* Delivered production features merged by maintainers
+* Collaborated through pull-request reviews and roadmap discussions
 * Built validation and feedback systems
-* Debugged race conditions & auth timing issues
+* Debugged race conditions & authentication timing issues
 * Improved state architecture using Zustand
 * Implemented gameplay UX improvements
 
 ---
 
-### 🧠 Engineering Interests
+### Engineering Interests
 
 * System design & architecture
 * Defensive engineering & reliability
@@ -120,7 +96,7 @@ Contributed to a production gamified AI learning platform built with React Nativ
 
 ---
 
-### 🌍 Career Focus
+### Career Focus
 
 I’m especially motivated to work on:
 
@@ -133,7 +109,7 @@ Open to **remote roles**.
 
 ---
 
-### 🤝 Open Source Interests
+### Open Source Interests
 
 Interested in contributing to:
 
@@ -144,13 +120,15 @@ Interested in contributing to:
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
-🌐 LinkedIn: https://linkedin.com/in/sabina-b-75306b221
+ LinkedIn: https://linkedin.com/in/sabina-b-75306b221
 
 ---
 
-⭐ *“I aim to build technology that provides meaningful, lasting benefit.”*
+### Philosophy
+
+ *“I aim to build technology that provides meaningful, lasting benefit.”*
 
 
 
